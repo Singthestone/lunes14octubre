@@ -1,0 +1,11 @@
+.container {}
+
+body {
+    padding: 20px;
+}
+
+.princesas {
+    display: flex;
+    flex-direction: row;
+    width: 100%;
+}
